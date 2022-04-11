@@ -1,0 +1,23 @@
+{
+  "name": "README_Gen",
+  "version": "1.0.0",
+  "description": "Project description ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TBM97/README_Gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TBM97/README_Gen/issues"
+  },
+  "homepage": "https://github.com/TBM/README_Gen#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
